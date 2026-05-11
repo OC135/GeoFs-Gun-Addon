@@ -39,7 +39,7 @@
 
         fa18f: {
             name: "FA-18F Gun",
-            url: "https://raw.githubusercontent.com/OC135/test-gun-addon/refs/heads/main/f18fcgun.json"
+            url: "https://raw.githubusercontent.com/OC135/test-gun-addon/refs/heads/main/f18fgun.json"
         },
 
         rafale: {
